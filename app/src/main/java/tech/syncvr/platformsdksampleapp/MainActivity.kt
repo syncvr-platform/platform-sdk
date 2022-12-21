@@ -1,4 +1,4 @@
-package tech.syncvr.dashboardsdksampleapp
+package tech.syncvr.platformsdksampleapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,8 +8,8 @@ import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import tech.syncvr.dashboardsdk.Sydney
-import tech.syncvr.dashboardsdksampleapp.ui.theme.SampleAppTheme
+import tech.syncvr.platformsdk.Sydney
+import tech.syncvr.platformsdksampleapp.ui.theme.SampleAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

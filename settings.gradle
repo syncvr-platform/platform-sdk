@@ -8,6 +8,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Dashboard SDK project"
+rootProject.name = "Platform SDK project"
 include ':app'
-include ':DashboardSdk'
+include ':PlatformSdk'

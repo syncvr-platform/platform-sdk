@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SampleAppTheme">
         <activity
-            android:name="tech.syncvr.dashboardsdksampleapp.MainActivity"
+            android:name="tech.syncvr.platformsdksampleapp.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

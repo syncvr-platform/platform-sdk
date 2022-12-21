@@ -45,7 +45,7 @@ publishing {
     publications {
         release(MavenPublication) {
             groupId = 'tech.syncvr'
-            artifactId = 'tech-syncvr-dashboardsdk'
+            artifactId = 'tech-syncvr-platformsdk'
             version = '0.0.2'
 
             afterEvaluate {

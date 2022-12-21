@@ -1,4 +1,4 @@
-package tech.syncvr.dashboardsdksampleapp.ui.theme
+package tech.syncvr.platformsdksampleapp.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
