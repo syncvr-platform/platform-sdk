@@ -9,7 +9,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.simpleandroidlibrary"
+        applicationId "tech.syncvr.dashboardsdksampleapp"
         minSdk 21
         targetSdk 33
         versionCode 1
@@ -51,7 +51,7 @@ android {
             withJavadocJar()
         }
     }
-    namespace 'com.example.simpleandroidlibrary'
+    namespace 'tech.syncvr.dashboardsdksampleapp'
 }
 
 dependencies {
@@ -65,6 +65,6 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
     implementation 'androidx.activity:activity-compose:1.6.1'
 
-    implementation project(':SydneySuburbs')
+    implementation project(':DashboardSdk')
     //implementation 'com.github.vinchamp77:demo-simple-android-lib:0.0.2'
 }

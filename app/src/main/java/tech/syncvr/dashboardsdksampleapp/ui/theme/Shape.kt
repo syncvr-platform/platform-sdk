@@ -1,4 +1,4 @@
-package com.example.simpleandroidlibrary.ui.theme
+package tech.syncvr.dashboardsdksampleapp.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

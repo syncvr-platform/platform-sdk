@@ -44,8 +44,8 @@ dependencies {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.github.vinchamp77'
-            artifactId = 'demo-simple-android-lib'
+            groupId = 'tech.syncvr'
+            artifactId = 'tech-syncvr-dashboardsdk'
             version = '0.0.2'
 
             afterEvaluate {

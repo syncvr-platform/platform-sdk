@@ -1,4 +1,4 @@
-package com.example.simpleandroidlibrary.ui.theme
+package tech.syncvr.dashboardsdksampleapp.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -28,7 +28,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun SimpleAndroidLibraryTheme(
+fun SampleAppTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable() () -> Unit
 ) {

@@ -8,6 +8,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Simple Android Library"
+rootProject.name = "Dashboard SDK project"
 include ':app'
-include ':SydneySuburbs'
+include ':DashboardSdk'
